@@ -108,6 +108,7 @@ Closes #이슈번호
 ```
 
 예시:
+PR이 #3이면 Issue가 #4(= PR번호 + 1)
 
 ```text
 Closes #12
